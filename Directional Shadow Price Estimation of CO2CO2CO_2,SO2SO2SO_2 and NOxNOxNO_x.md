@@ -1,4 +1,4 @@
-# Directional Shadow Price Estimation of $CO_2$,$SO_2$ and $NO_x$
+# Directional Shadow Price Estimation of CO<sub>2</sub>, SO<sub>2</sub> and NO<sub>x</sub>
 
 ## 1 Background and Motivation
 
